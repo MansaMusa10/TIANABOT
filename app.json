@@ -23,7 +23,7 @@
       "ALIVE_PIC": {
          "description": "You can get Telegraph Link From Here @vtelegraphbot",
          "required": true,
-         "value": "https://telegra.ph/file/95b045156a7b4c2fe61f2.mp4"
+         "value": "https://telegra.ph/file/c291d74dd7cc16d3080b7.jpg"
       },   
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
