@@ -58,17 +58,17 @@
       "BOT_USERNAME": {
          "description": "Your Bot username without the @",
          "required": true,
-         "value": "TIANA_PRINCE_BOT"
+         "value": "Elina_musa_bot"
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
          "required": true,
-         "value": "TIANA"
+         "value": "ELINA"
       },   
       "BOT_CHANNEL": {
          "description": "Your Bot Channel username without the @",
          "required": true,
-         "value": "PRINCEBOTS"
+         "value": "all_books_are_available"
       },   
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -80,12 +80,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "DEVILSDAD_PRINCE"
+         "value": "BadshahMusa"
       },
       "CHAT_GROUP": {
          "description": "Your Group username without the @",
          "required": true,
-         "value": "MUSIC_AND_CHATS"
+         "value": "sangeet_plus_chat_group"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Tiana support than consider you made an enemy.",
